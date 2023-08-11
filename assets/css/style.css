@@ -166,6 +166,7 @@ animation-name: fade; /*Nome da animação*/
 animation-duration: 3s; /*Duração da animação*/
 animation-iteration-count: infinite; /*Contagem que aquela animaçãao sera executada*/
 z-index: 1;
+margin-bottom: -70px;
 }
 
 
